@@ -1,4 +1,4 @@
-# Filtrar Mulheres - EBAC - Stram
+# Filtrar Mulheres - EBAC - Stream
 
 Este é um projeto simples em Java que lê uma lista de nomes e sexos separados por vírgula a partir do console, cria uma lista de objetos com essas informações e utiliza expressões lambda para filtrar e exibir apenas os registros de mulheres.
 
